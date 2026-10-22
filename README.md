@@ -47,3 +47,9 @@ University assignment examining FDA regulatory pathways and their implications f
 Developing my scientific research portfolio, strengthening computational and laboratory research skills, and exploring opportunities in biomedical research and biotechnology.
 
 *Detailed project repositories are currently private while supporting documents and manuscripts undergo review.*
+
+### Researcher Profiles
+
+- [ORCID: 0009-0009-3688-5027](https://orcid.org/0009-0009-3688-5027)
+- [LinkedIn](https://www.linkedin.com/in/rzimunya)
+
